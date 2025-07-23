@@ -24,7 +24,7 @@ MODEL_PATHS = {
     "Custom CNN": "models/custom_model_best.h5",
     "ResNet50": "models/brain_tumor_resnet50_best.h5",
     "DenseNet121": "models/brain_tumor_densenet_best.h5",
-    "EfficientNetB0": "models/brain_tumor_efficientnet_best.h5"
+    "EfficientNetB0": "models/custom_model.h5"
 }
 
 # Sidebar - Model Selection
